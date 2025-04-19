@@ -13,7 +13,6 @@ This repository contains the **project documentation** for the **Health App Webs
 ✅ Design & Development Process  
 ✅ APIs, Database, & Authentication  
 ✅ Styling & Animations  
-```
 
 ## Screenshots
 
